@@ -6,6 +6,7 @@
 * **Nicole Guerrero Cabrera** – Analista de Datos (Foco Estructural)  
 * **William Naufamer** – Responsable de Calidad de Datos  
 * **Leonardo Elian Nuñez Marin** – Analista de Datos (Foco Visual)
+* **Flavia Andrea Matus Aracena**  - (Ausente)
 
 *Nota de gestión:* El equipo adaptó la distribución de responsabilidades y la carga operativa entre los 4 integrantes activos para garantizar la ejecución efectiva del proyecto.
 
