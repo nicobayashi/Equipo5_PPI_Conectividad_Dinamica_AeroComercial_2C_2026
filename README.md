@@ -37,7 +37,7 @@ Diagnosticar la resiliencia temporal y la concentración estacional de los flujo
 # **Herramientas utilizadas**
 
 * **Lenguaje de programación:** Python  
-* **Análisis y modelado:** Coeficiente de Variación (CV) y Agrupamientos Temporales (*Time Series Resampling*).   
+* **Análisis y modelado:** Coeficiente de Variación (CV) y Agrupamientos Temporales.   
 * **Visualización e informes:** Power BI / Excel  
 * **Gestión de proyecto:** GitHub, Trello, Diagrama de Gantt, Google Drive
 
@@ -81,7 +81,7 @@ Diagnosticar la resiliencia temporal y la concentración estacional de los flujo
 
 * **`data/`:** Archivos de datos utilizados en el proyecto (`raw/` para datos originales o sin modificaciones; `processed/` para datos preparados o transformados).  
 * **`analysis/`:** Archivos relacionados con el análisis realizado por el equipo (notebooks, consultas y recursos técnicos).  
-* **`docs/`:** Documentación del proyecto, fichas, definiciones y otros documentos relevantes.  
+* **`docs/`:** Documentación del proyecto, fichas, definiciones y otros documentos relevantes (`images/` para gráficos del proyecto).  
 * **`reports/`:** Informes, presentaciones u otros productos finales del proyecto.
 
 # **Contacto**
