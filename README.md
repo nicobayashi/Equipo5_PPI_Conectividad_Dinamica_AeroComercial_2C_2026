@@ -5,8 +5,7 @@
 * **Facundo Acosta** – Coordinador / Comunicador / Documentador  
 * **Nicole Guerrero Cabrera** – Analista de Datos (Foco Estructural)  
 * **William Naufamer** – Responsable de Calidad de Datos  
-* **Leonardo Elian Nuñez Marin** – Analista de Datos (Foco Visual)
-* **Flavia Andrea Matus Aracena**  - (Ausente)
+
 
 *Nota de gestión:* El equipo adaptó la distribución de responsabilidades y la carga operativa entre los 4 integrantes activos para garantizar la ejecución efectiva del proyecto.
 
@@ -89,14 +88,9 @@ Diagnosticar la resiliencia temporal y la concentración estacional de los flujo
 
 Para consultas o información adicional referente a este proyecto, puede contactarse con el equipo a través de:
 
-**Leonardo Elian Nuñez Marin**  
-Nunezelianpromo@gmail.com
 
 **William Naufamer**  
 williamnaufamer@gmail.com
-
-**Flavia Andrea Matus Aracena**  
-flaviamatus@gmail.com
 
 **Facundo Acosta**  
 facuacosta120@gmail.com
